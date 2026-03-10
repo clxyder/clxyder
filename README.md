@@ -1,6 +1,6 @@
 # Carlos Wong
 
-**AI Engineer** — I build LLM systems that actually ship to production.
+**AI Engineer** — Building production-grade AI systems.
 
 ## The Short Version
 
