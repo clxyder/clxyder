@@ -24,7 +24,3 @@ I deploy generative AI at enterprise scale — the kind with air-gapped networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosawong)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Carlos_A_Wong)
 [![Website](https://img.shields.io/badge/carloswong.co-000?style=flat&logo=safari&logoColor=white)](https://carloswong.co)
-
----
-
-*Orlando, FL — Open to the right opportunity*
