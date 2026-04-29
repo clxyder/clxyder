@@ -7,7 +7,6 @@
 I deploy generative AI at enterprise scale — the kind with air-gapped networks, compliance requirements, and thousands of users who need it to just work. Currently leading AI initiatives at L3Harris, where I've:
 
 - **Deployed LLM infrastructure serving 1,000+ users** on NVIDIA Kubernetes clusters
-- **Driven $2M in forecasted savings** through RAG assistants for enterprise use cases
 - **Managed $1M+ in R&D funding** across agentic AI and edge deployment projects
 - **Demonstrated AI capabilities to 200+ customers** at industry events
 
